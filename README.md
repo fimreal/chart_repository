@@ -15,7 +15,7 @@ Helm's [documentation](https://helm.sh/docs) to get started.
 
 Once Helm has been set up correctly, add the repo as follows:
 
-    helm repo add fimreal https://helm.epurs.com/helm-charts # suggested
+    helm repo add fimreal https://helm.epurs.com # suggested
 
 or
 
